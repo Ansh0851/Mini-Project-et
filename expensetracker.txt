@@ -1,0 +1,1 @@
+An expense tracker app helps users efficiently monitor and manage their spending by recording and categorizing expenses, providing insights into financial habits.
